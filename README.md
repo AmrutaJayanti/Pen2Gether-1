@@ -24,6 +24,22 @@ A real-time collaborative note-taking application where users can create, edit, 
 
 ## 🚀 Setup Instructions
 
+### 💻Frontend setup
+```
+cd src
+cd client
+npm install
+npm run dev
+```
+
+### ⚒️ Backend Setup
+
+```
+cd src
+npm install
+npm start
+```
+
 
 ## 🧑‍💻 Contributors
 - [Amruta Jayanti](https://www.linkedin.com/in/amruta-jayanti)
