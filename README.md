@@ -2,6 +2,8 @@
 
 A real-time collaborative note-taking application where users can create, edit, share, and collaborate on notes. Built with **Node.js**, **Express.js**, **MongoDB**, and **Socket.IO**, this app supports live editing.
 
+**You can check our project live at [Link](http://pen2gether.netlify.app). Feel free to explore the features!**
+
 ## 🔍 Features
  - 🔐 Authentication System (Login/Register)
  - 📋 Create, Read, Update Notes
