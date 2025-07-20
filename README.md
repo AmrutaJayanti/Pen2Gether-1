@@ -40,6 +40,22 @@ npm install
 npm start
 ```
 
+*Ensure to add `.env` file to the project*
+
+#### `.env_sample`:
+
+```
+MONGODB_URI=<database_url>
+JWT_SECRET=<jwt_Secret>
+EMAIL=<email-id>
+PASSWORD=<password>
+FRONTEND_URL=<frontend-url>
+PORT=8000
+VITE_APP_BACKEND_URL=<backend-url>
+VITE_APP_SOCKET_URL=<socker-url>
+BACKEND_URL=<backend-url>
+SOCKET_URL=<frontend-url>
+```
 
 ## 🧑‍💻 Contributors
 - [Amruta Jayanti](https://www.linkedin.com/in/amruta-jayanti)
