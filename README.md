@@ -59,6 +59,10 @@ BACKEND_URL=<backend-url>
 SOCKET_URL=<frontend-url>
 ```
 
+### 📽️ Working demo
+[<img width="1301" height="729" alt="Screenshot 2025-07-20 090911" src="https://github.com/user-attachments/assets/3f225020-294e-486a-89ad-7bfa1c4afa21" />
+](https://drive.google.com/file/d/1G8hjYD89zRbahk4__-tix-CtkcukpEAg/view?usp=sharing)
+
 ## 🧑‍💻 Contributors
 - [Amruta Jayanti](https://www.linkedin.com/in/amruta-jayanti)
 - [K. Sneha Deepthi](https://www.linkedin.com/in/sneha-deepthi11/)
